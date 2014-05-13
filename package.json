@@ -1,0 +1,13 @@
+{
+  "name": "handlebars-array",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/handlebars-array.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Lloyd Brookes",
+  "dependencies": {
+    "wodge": "~0.6.5"
+  }
+}
