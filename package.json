@@ -9,6 +9,6 @@
   },
   "author": "Lloyd Brookes",
   "dependencies": {
-    "wodge": "~0.6.5"
+    "wodge": "^0.8"
   }
 }
