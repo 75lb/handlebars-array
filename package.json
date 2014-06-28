@@ -1,6 +1,6 @@
 {
   "name": "handlebars-array",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "repository": "https://github.com/75lb/handlebars-array",
   "description": "Handlebars helpers for working with array data",
   "main": "lib/handlebars-array.js",
