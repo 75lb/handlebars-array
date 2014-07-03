@@ -9,6 +9,6 @@
   },
   "author": "Lloyd Brookes",
   "dependencies": {
-    "array-tools": "^1.0.4"
+    "array-tools": "^1.1.4"
   }
 }
