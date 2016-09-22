@@ -4,6 +4,7 @@
   "repository": "https://github.com/75lb/handlebars-array",
   "description": "Handlebars helpers for working with array data",
   "main": "lib/handlebars-array.js",
+  "license": "MIT",
   "scripts": {
     "test": ""
   },
